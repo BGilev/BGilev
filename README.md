@@ -26,7 +26,7 @@ Junior Java Developer
 
 ### Фреймоворки
 ![Spring Framework](https://img.shields.io/badge/-Spring_Framework-090909?style=for-the-badge&logo=spring&logoColor=00e600)
-![Hibernate](https://img.shields.io/badge/-Spring_Framework-090909?style=for-the-badge&logo=hibernate&logoColor=ffd700)
+![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=hibernate&logoColor=ffd700)
 
 
 

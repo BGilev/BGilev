@@ -25,7 +25,7 @@ Junior Java Developer
 </p>
 
 ### Фреймоворки
-![Spring Framework](https://img.shields.io/badge/-Spring_Framework-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![Spring Framework](https://img.shields.io/badge/-Spring_Framework-090909?style=for-the-badge&logo=spring&logoColor=F8C52C)
 
 
 
